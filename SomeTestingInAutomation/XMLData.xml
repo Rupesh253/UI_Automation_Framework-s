@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<TestDataSet>
+  <Credentials>
+    <UserName>123</UserName>
+    <Password>123</Password>
+  </Credentials>
+  <Credentials>
+     <UserName>456</UserName>
+     <Password>456</Password>
+  </Credentials>
+  <Credentials>
+     <UserName>789</UserName>
+     <Password>789</Password>
+  </Credentials>s
+</TestDataSet>
