@@ -395,7 +395,7 @@ namespace SomeTestingInAutomation.TestAuxiliaries
             public void ValidateAlertRead(IWebDriver driver, string expectedText)
             {
                 string actualText = new Helpers.BasicMethods(driver).AlertRead(driver);
-                Assert.AreEqual(expectedText, actualText, $"alert read{expectedText} != {actualText}");
+                Assert.AreEqual(expectedText, actualText, $"alert read {expectedText} != {actualText}");
             }
         }
 
